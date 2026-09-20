@@ -1,3 +1,6 @@
 ### リバースプロキシ
 
 ##### ねむ様の広告抹殺コードなどを参考に作りました(改造か)
+
+renderでのStart Command
+python3 main.py
